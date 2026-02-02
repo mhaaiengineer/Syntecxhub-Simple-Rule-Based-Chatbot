@@ -1,0 +1,9 @@
+{
+    "what is ai": "AI (Artificial Intelligence) is the field of building systems that can perform tasks that usually require human intelligence, like learning, reasoning, and understanding language.",
+    "what is machine learning": "Machine Learning is a part of AI where models learn patterns from data to make predictions or decisions without being explicitly programmed for every rule.",
+    "what is deep learning": "Deep Learning is a type of machine learning that uses neural networks with many layers to learn complex patterns, especially for images, audio, and text.",
+    "what is nlp": "NLP (Natural Language Processing) helps computers understand, interpret, and generate human language.",
+    "what is forward chaining": "Forward chaining is a rule-based reasoning method that starts from known facts and applies rules to infer new facts until no more can be inferred.",
+    "how to submit task": "Upload your complete source code to GitHub in a repo named like 'Syntecxhub_Project_Name' and submit using the official submission form.",
+    "what is an intent": "An intent is the goal of a user message, like greeting, asking for help, or requesting a definition."
+}
