@@ -1,4 +1,5 @@
-# Simple Rule-Based Chatbot (Week 2 - Project 1)
+# Simple Rule-Based Chatbot 
+The Simple Rule-Based Chatbot is a Python-based console application that simulates human conversation using predefined rules and pattern matching. It supports greetings, help commands, and basic domain-specific questions through a small knowledge base. The chatbot interacts via CLI and logs conversation history for reference.
 
 This project matches the "Simple Rule-Based Chatbot" requirements:
 - Conversational bot using pattern matching (rule-based)
@@ -16,12 +17,3 @@ This project matches the "Simple Rule-Based Chatbot" requirements:
 Keep `chatbot.py` and `knowledge_base.json` in the same folder, then run:
 
 python chatbot.py
-
-## Example Inputs
-hi
-my name is hammad
-what is ai
-define machine learning
-how to submit task
-time
-exit
